@@ -1,0 +1,16 @@
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/bin/Debug/netstandard2.0/MaterialApp.deps.json
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/bin/Debug/netstandard2.0/MaterialApp.dll
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/bin/Debug/netstandard2.0/MaterialApp.pdb
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/obj/Debug/netstandard2.0/Views/MenuPage.xaml.g.cs
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/obj/Debug/netstandard2.0/MaterialApp.csproj.CoreCompileInputs.cache
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/obj/Debug/netstandard2.0/MaterialApp.AssemblyInfoInputs.cache
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/obj/Debug/netstandard2.0/MaterialApp.AssemblyInfo.cs
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/obj/Debug/netstandard2.0/MaterialApp.dll
+/Users/osmaricancino/Projects/MaterialApp/MaterialApp/obj/Debug/netstandard2.0/MaterialApp.pdb

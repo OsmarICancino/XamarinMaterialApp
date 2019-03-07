@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="MaterialApp.Views.ItemDetailPage" Title="{Binding Title}"
+             xmlns:material="clr-namespace:XF.Material.Forms.UI;assembly=XF.Material.Forms" 
+             material:MaterialNavigationPage.AppBarColor="#2c3e50" 
+             material:MaterialNavigationPage.AppBarTitleTextFontFamily="Roboto" 
+             material:MaterialNavigationPage.AppBarTitleTextFontSize="14" 
+             material:MaterialNavigationPage.StatusBarColor="#1B3147" 
+             material:MaterialNavigationPage.AppBarTitleTextAlignment="Start">
+    
+    
+    <StackLayout Spacing="20" Padding="15">
+        <material:MaterialSlider/>
+        
+       
+        <material:MaterialCard 
+        CornerRadius="4" 
+        Elevation="2" 
+        HeightRequest="80"
+        HorizontalOptions="FillAndExpand" >
+            <Label Text="Te quiero Maricela ❤" FontSize="Medium" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>    
+        </material:MaterialCard>
+        
+        <material:MaterialButton Text="Press to give love :3" TextColor="White" ButtonType="Flat"/>
+        
+        <Label Text="Text:" FontSize="Medium" />
+        <Label Text="{Binding Item.Text}" FontSize="Small" />
+        <Label Text="Description:" FontSize="Medium" />
+        <Label Text="{Binding Item.Description}" FontSize="Small" />
+    </StackLayout>
+</ContentPage>

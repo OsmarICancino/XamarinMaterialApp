@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}|Default">
+  <MonoDevelop.Ide.ItemProperties.MaterialApp.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.52008414f482c47b" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MaterialApp.Android/MainActivity.cs">
+    <Files>
+      <File FileName="MaterialApp/Views/MainPage.xaml" Line="19" Column="26" />
+      <File FileName="MaterialApp/Views/ItemDetailPage.xaml" Line="13" Column="28" />
+      <File FileName="MaterialApp/Views/NewItemPage.xaml" Line="3" Column="31" />
+      <File FileName="MaterialApp/Views/AboutPage.xaml" Line="72" Column="15" />
+      <File FileName="MaterialApp.Android/MainActivity.cs" Line="20" Column="1" />
+      <File FileName="MaterialApp.Android/Resources/values/styles.xml" Line="25" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MaterialApp" expanded="True">
+            <Node name="MaterialApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="MaterialApp.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+            <Node name="MaterialApp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MaterialApp.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A630B2E8-1BBD-4CF8-BC4C-E7156339900B" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
